@@ -1,3 +1,3 @@
 UPDATE studenten 
-SET achternaam = 'komkommer', geboortedatum = '2000-01-01' 
-WHERE ov_nummer = 90003;
+SET inschrijvings_datum = 'INACTIEF' 
+WHERE inschrijvings_datum = 1-1-2017;
